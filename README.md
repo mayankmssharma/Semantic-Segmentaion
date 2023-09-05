@@ -11,6 +11,8 @@
 - *Results:*
     -  Custom U-Net IoU Score: Achieved an IoU of 0.810 with the custom U-Net model.
     -  U-Net with ResNet101 IoU Score: Improved IoU to 0.828 by incorporating ResNet101.
+    -  DeepLabv3 IoU Score: Attained a competitive IoU of 0.825 with DeepLabv3.
+    -  Comparison Charts: Included charts comparing the IoU scores and Dice loss of different models.
 
 - *Results:*
   - Custom U-Net IoU Score: Achieved an IoU of 0.810 with the custom U-Net model.
