@@ -26,6 +26,8 @@
     ![alt text](https://github.com/lalwanii26/semantic-segmentaion-water-bodies/blob/main/images/visualization.png?raw=true)
 
 - *Conclusion and Future Work:*
+
+- *Conclusion and Future Work:*
   - U-Net performs better (ideally) than FCN, PSPNet and DeepLab due to the presence of skip connections between the encoder-decoder model.
   - Deep Lab is expected to perform better if we use the actual Deep Lab Model instead of deeplabv3_mobilenet_v3_large.
   - Equipping models with a pre-trained backbone like ResNet or VGG gives better performance.
