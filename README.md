@@ -2,7 +2,7 @@
 
 
 - *Introduction:*
-    -      Problem Statement: Unveiling water bodies from satellite images using semantic segmentation for applications in environmental monitoring, urban planning, and more.
+    - Problem Statement: Unveiling water bodies from satellite images using semantic segmentation for applications in environmental monitoring, urban planning, and more.
 
 - *Introduction:*
     - Problem Statement: Unveiling water bodies from satellite images using semantic segmentation for applications in environmental monitoring, urban planning, and more.
