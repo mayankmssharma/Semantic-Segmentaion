@@ -1,4 +1,4 @@
-# semantic-segmentaion-water-bodies
+# Semantic Segmentaion of Water Bodies
 
 
 - *Introduction:*
