@@ -8,15 +8,9 @@
         - Water Body Mapping & Monitoring: allows for the precise water body identification and delineation
         - Water Quality Assessment: identify areas with different water quality characteristics, like turbidity or pollution levels
         - Change Detection: Tracks changes in water extent, shoreline erosion, and new water bodies by comparing segmented images over time
-
-- *Introduction:*
-    - Problem Statement: Unveiling water bodies from satellite images using semantic segmentation for applications in environmental monitoring, urban planning, and more.
-    - 
-    - Objective: Utilize advanced semantic segmentation techniques to achieve high accuracy, with a focus on maximizing the Intersection over Union (IoU) score.
-    - Why do we want to unveil water bodies using segmentation?
-      - Water Body Mapping & Monitoring: allows for the precise water body identification and delineation
-      - Water Quality Assessment: identify areas with different water quality characteristics, like turbidity or pollution levels
-      - Change Detection: Tracks changes in water extent, shoreline erosion, and new water bodies by comparing segmented images over time
+- *Results:*
+    -  Custom U-Net IoU Score: Achieved an IoU of 0.810 with the custom U-Net model.
+    -  U-Net with ResNet101 IoU Score: Improved IoU to 0.828 by incorporating ResNet101.
 
 - *Results:*
   - Custom U-Net IoU Score: Achieved an IoU of 0.810 with the custom U-Net model.
